@@ -1,0 +1,50 @@
+#conteneur{
+    display: flex;
+    flex-wrap: wrap
+}
+
+.vert {
+    width: 80%;
+    height: 20px;
+    background-color: #2ECC71;
+}
+.bleu {
+    width: 20%;
+    height: 20px;
+    background-color: #2980B9;
+}
+.rouge {
+    width: 36%;
+    height: 40px;
+    background-color: #E74C3C;
+}
+.orangeclair {
+    width: 32%;
+    height: 20px;
+    background-color: #F39C12;
+}
+.gris {
+    width: 32%;
+    height: 20px;
+    background-color: #95A5A6;
+}
+.jeune {
+    width: 20%;
+    height: 20px;
+    background-color: #F39C12;
+}
+.vertfonce {
+    width: 20%;
+    height: 20px;
+    background-color: #16A085;
+}
+.orangefonce {
+    width: 24%;
+    height: 20px;
+    background-color: #2C3E50;
+}
+#bleufonce {
+    width: 100%;
+    height: 60px;
+    background-color: #2C3E50;
+}
