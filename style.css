@@ -1,7 +1,7 @@
 #conteneur{
     display: flex;
-    flex-wrap: wrap
-}
+    flex-wrap: wrap;
+    }
 
 .vert {
     width: 80%;
@@ -14,37 +14,37 @@
     background-color: #2980B9;
 }
 .rouge {
-    width: 36%;
-    height: 40px;
+    width: 34%;
+    height: 20px;
     background-color: #E74C3C;
 }
 .orangeclair {
-    width: 32%;
+    width: 33%;
     height: 20px;
     background-color: #F39C12;
 }
 .gris {
-    width: 32%;
+    width: 33%;
     height: 20px;
     background-color: #95A5A6;
 }
 .jeune {
-    width: 20%;
+    width: 22%;
     height: 20px;
-    background-color: #F39C12;
+    background-color: yellow;
 }
 .vertfonce {
-    width: 20%;
+    width: 22%;
     height: 20px;
     background-color: #16A085;
 }
 .orangefonce {
-    width: 24%;
+    width: 22%;
     height: 20px;
-    background-color: #2C3E50;
+    background-color: orange;
 }
-#bleufonce {
+.bleufonce {
     width: 100%;
     height: 60px;
-    background-color: #2C3E50;
+    background-color: blueviolet;
 }
